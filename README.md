@@ -1,6 +1,6 @@
 # 👨‍💻 Mohamed Yassine Madhi
 
-**Data analyst**
+**`Data analyst`**
 
 ## 📊 [My Data analysis projects](https://github.com/stars/yassine978/lists/data-analysis)
 
