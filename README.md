@@ -1,16 +1,17 @@
-## Hi there 👋
+# Madhi-Mohame-Yassine
 
-<!--
-**yassine978/yassine978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Mohamed Yassine Madhi
 
-Here are some ideas to get you started:
+**Data analyst**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 [My Data analysis projects](https://github.com/stars/yassine978/lists/data-analysis)
+
+## 📚 About Me
+I am a highly motivated data analyst passionate about leveraging data to drive real-world solutions. Currently, I am a new business intelligence graduate from ISG Tunis and a new data analyst freelancer at UpWork.
+
+On my GitHub, you can find a collection of my academic and profissional projects that I have developed from concept to completion, showcasing my ability to turn ideas into functional solutions for real-world challenges through code.
+
+
+Please feel free to reach out to me via my LinkedIn profile.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/madhi-mohamed-yassine/)
