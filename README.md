@@ -1,5 +1,3 @@
-# Madhi-Mohame-Yassine
-
 # 👨‍💻 Mohamed Yassine Madhi
 
 **Data analyst**
