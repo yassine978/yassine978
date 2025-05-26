@@ -4,7 +4,7 @@
 
 **`Data analyst`**
 
-## 📊 [My Data analysis projects](https://github.com/stars/yassine978/lists/data-analysis)
+\* ## 📊 [My Data analysis projects](https://github.com/stars/yassine978/lists/data-analysis) */
 
 ## 📚 About Me
 I am a highly motivated data analyst passionate about leveraging data to drive real-world solutions. Currently, I am a new business intelligence graduate from ISG Tunis and a new data analyst freelancer at UpWork.
