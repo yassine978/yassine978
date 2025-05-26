@@ -8,7 +8,7 @@
 
 ## 🚀 Projects & Portfolios
 
-- 🔬 [My Data Science Projects](https://github.com/stars/yassine978/lists/data-science-projects)
+- 🧠 [My Data Science Projects](https://github.com/stars/yassine978/lists/data-science-projects)
 - 📊 [My Data Analysis Projects](https://github.com/stars/yassine978/lists/data-analysis)
 
 ---
@@ -21,7 +21,7 @@ Previously, I earned my **Business Intelligence degree from ISG Tunis**, where I
 
 My journey is shaped by a deep interest in solving real-world problems through data. I’ve participated in Kaggle competitions, academic projects, and AI-based applications — including building:
 
-- 🧠 A CatBoost-based regression model for house price prediction
+- 📈 A CatBoost-based regression model for house price prediction
 - 🎮 Data analysis pipelines on Twitch streamers and gaming behavior
 - ♻️ A GPT-powered chatbot to guide companies in CSR strategies (hackathon project)
 
