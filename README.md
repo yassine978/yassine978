@@ -4,8 +4,8 @@
 
 **`Data analyst`** **`Data engineer`** **`Data scientist`**
 
-## 📊 [My Data science projects]([https://github.com/stars/yassine978/lists/data-analysis](https://github.com/stars/yassine978/lists/data-science-projects))
 
+## 📊 [My Data science projects](https://github.com/stars/yassine978/lists/data-science-projects)
 ## 📊 [My Data analysis projects](https://github.com/stars/yassine978/lists/data-analysis)
 
 ## 📚 About Me
