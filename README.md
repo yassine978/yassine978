@@ -2,18 +2,39 @@
 
 # 👨‍💻 Mohamed Yassine Madhi
 
-**`Data analyst`** **`Data engineer`** **`Data scientist`**
+**`Data Analyst`** • **`Data Engineer`** • **`Aspiring Data Scientist & AI Expert`**
 
+---
 
-## 🧠 [My Data science projects](https://github.com/stars/yassine978/lists/data-science-projects)
-## 📊 [My Data analysis projects](https://github.com/stars/yassine978/lists/data-analysis)
+## 🚀 Projects & Portfolios
+
+- 🔬 [My Data Science Projects](https://github.com/stars/yassine978/lists/data-science-projects)
+- 📊 [My Data Analysis Projects](https://github.com/stars/yassine978/lists/data-analysis)
+
+---
 
 ## 📚 About Me
-I am a highly motivated data analyst passionate about leveraging data to drive real-world solutions. Currently, I am a new business intelligence graduate from ISG Tunis and a new data analyst freelancer at UpWork.
 
-On my GitHub, you can find a collection of my academic and profissional projects that I have developed from concept to completion, showcasing my ability to turn ideas into functional solutions for real-world challenges through code.
+I’m a passionate and curious data enthusiast with a strong foundation in data analysis, currently pursuing a **Master’s in Big Data & Artificial Intelligence** at **Université Paris Dauphine | Tunis**.
+
+Previously, I earned my **Business Intelligence degree from ISG Tunis**, where I built solid experience in working with structured data, visualization, and predictive modeling.
+
+My journey is shaped by a deep interest in solving real-world problems through data. I’ve participated in Kaggle competitions, academic projects, and AI-based applications — including building:
+
+- 🧠 A CatBoost-based regression model for house price prediction
+- 🎮 Data analysis pipelines on Twitch streamers and gaming behavior
+- ♻️ A GPT-powered chatbot to guide companies in CSR strategies (hackathon project)
+
+I’m now looking forward to combining my analytical skills with advanced machine learning and AI expertise to deliver smart, scalable solutions — either as a **Data Scientist**, **AI Engineer**, or **ML Engineer** in the near future.
 
 
-Please feel free to reach out to me via my LinkedIn profile.
+## 🤝 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/madhi-mohamed-yassine/)
+📫 Email: yassine.madhi6@gmail.com
+
+---
+> *"Data is a tool for empowerment — I build with it to bring clarity, impact, and innovation."*
+
+
+
