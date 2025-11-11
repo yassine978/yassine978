@@ -8,7 +8,6 @@
 
 ## 🚀 Projects & Portfolios
 
-- 🤖 [My AI Projects](https://github.com/stars/yassine978/lists/ai-projects)
 - 🧠 [My Data Science Projects](https://github.com/stars/yassine978/lists/data-science-projects)
 - 📊 [My Data Analysis Projects](https://github.com/stars/yassine978/lists/data-analysis)
 
