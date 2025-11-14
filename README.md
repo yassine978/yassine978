@@ -70,7 +70,7 @@ I'm a passionate **AI and Data Science professional** currently pursuing a Maste
 - Generative AI
 
 **Data & Cloud Technologies**
-- Databases: PostgreSQL, MySQL, Oracle, NoSQL
+- Databases: PostgreSQL, MySQL, Oracle, NoSQL, PL-SQL
 - BI Tools: Power BI, Talend
 - Cloud: Google Cloud Platform (BigQuery, Vertex AI, Cloud Run)
 - Other: Docker, FastAPI, Git
@@ -80,51 +80,6 @@ I'm a passionate **AI and Data Science professional** currently pursuing a Maste
 - Team collaboration & communication
 - Leadership & initiative
 - Agile methodologies
-
----
-
-## 🚀 Featured Projects
-
-### **RAG-Powered Job Application Assistant** (In Progress, 2025)
-An intelligent assistant that personalizes CVs and cover letters using advanced semantic matching.
-- **Architecture:** LangChain, Groq/Llama, RAG
-- **Features:** Multi-source web scraping, semantic matching, intelligent document generation
-- **Impact:** Streamlines job application customization with smart pagination and constraint handling
-- **Status:** Active development
-
-### **Movie Recommendation System on GCP** (2025)
-End-to-end collaborative filtering system deployed on Google Cloud Platform.
-- **Infrastructure:** BigQuery (9K movies, 100K ratings), Vertex AI Workbench, Cloud Run
-- **Model:** SVD-based recommendation engine
-- **Deployment:** FastAPI with 8 REST endpoints, Docker containerization, serverless auto-scaling
-- **Features:** Cold start handling, 8+ endpoints, fully containerized
-
-### **House Price Prediction – Kaggle** (2025)
-Optimized regression models achieving competitive performance on housing dataset.
-- **Models:** XGBoost, LightGBM, CatBoost ensemble
-- **Dataset:** 1,460 properties with 81 features
-- **Performance:** RMSE of 0.12 after advanced feature engineering
-- **Techniques:** Handling 19% missing values, cross-validation, hyperparameter tuning
-
-### **Prostate Cancer Prediction** (2025)
-Applied biomedical machine learning to predict PSA levels from patient data.
-- **Models:** Support Vector Regression (SVR)
-- **Dataset:** 97 patients with 8 biomedical variables
-- **Performance:** R² = 0.63
-- **Application:** Medical prediction and research support
-
-### **CSRimpactGPT Chatbot** (Hackathon, 2024)
-RAG-powered chatbot for corporate social responsibility strategy optimization.
-- **Technology:** GPT-4 API, RAG architecture
-- **Scale:** Indexed 50+ PDF documents
-- **Performance:** Response time < 3 seconds
-- **Recognition:** Presented to 150+ participants
-
-### **Twitch Streamers Analytics** (2024)
-Data-driven analysis identifying relationships between streaming metrics.
-- **Scale:** 1,000+ streamers analyzed
-- **Finding:** Strong correlation between views and subscribers (r = 0.72)
-- **Visualizations:** Interactive Plotly dashboards with regression modeling
 
 ---
 
@@ -147,14 +102,6 @@ Data-driven analysis identifying relationships between streaming metrics.
 
 ---
 
-## 🔗 Connect With Me
-
-- **LinkedIn:** [Mohamed Yassine Madhi](https://www.linkedin.com/in/madhi-mohamed-yassine/)
-- **Email:** yassine.madhi6@gmail.com
-- **Location:** Tunis, Tunisia 🇹🇳
-
----
-
 ## 📈 Looking For
 
 I'm actively seeking a **6-month internship starting February 2026** in:
@@ -174,9 +121,6 @@ If you're interested in collaborating on AI/ML projects or have opportunities th
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/madhi-mohamed-yassine/)  
 📫 Email: [yassine.madhi6@gmail.com](mailto:yassine.madhi6@gmail.com)
 
----
-
-> *"Empowering decisions and innovation through meaningful data & intelligent models."*
 
 
 
