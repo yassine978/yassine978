@@ -149,9 +149,8 @@ Data-driven analysis identifying relationships between streaming metrics.
 
 ## 🔗 Connect With Me
 
-- **LinkedIn:** [Mohamed Yassine Madhi](https://linkedin.com/in/yourprofile)
-- **GitHub:** [yassine978](https://github.com/yassine978)
-- **Email:** mohamed.madhi@dauphine.eu
+- **LinkedIn:** [Mohamed Yassine Madhi](https://www.linkedin.com/in/madhi-mohamed-yassine/)
+- **Email:** yassine.madhi6@gmail.com
 - **Location:** Tunis, Tunisia 🇹🇳
 
 ---
