@@ -24,7 +24,6 @@ I'm a passionate **AI and Data Science professional** currently pursuing a Maste
 ### **ScribLogik** – IT Consultant (Freelance)
 *September 2025 – Present | Paris, France*
 - Developing and maintaining company website and digital presence
-- Optimizing LinkedIn strategy for business growth
 - Building a **voice recognition module** to automate up to 25% of repetitive internal tasks
 - **Tech Stack:** Django, Python
 
