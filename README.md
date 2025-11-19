@@ -1,5 +1,5 @@
 <!--👋 Banner-->
-<center><img alt="Header" src="https://github.com/yassine978/yassine978/blob/main/header.png?raw=true"/></center>
+<center><img alt="Header" src="https://github.com/yassine978/yassine978/blob/main/new_header.png?raw=true"/></center>
 
 # 🧑🏻‍💻 Mohamed Yassine Madhi
 
