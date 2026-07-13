@@ -219,8 +219,8 @@ Cut ETL processing time from 2 hours to 20 minutes per day (–85%); delivered 6
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassine978&show_icons=true&theme=default&hide_border=true&title_color=003865&icon_color=003865&text_color=333)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassine978&layout=compact&hide_border=true&title_color=003865&text_color=333)
+![GitHub Stats](https://github-readme-stats-yassine980.vercel.app/api?username=yassine978&show_icons=true&theme=default&hide_border=true&title_color=003865&icon_color=003865&text_color=333)
+![Top Languages](https://github-readme-stats-yassine980.vercel.app/api/top-langs/?username=yassine978&layout=compact&hide_border=true&title_color=003865&text_color=333)
 
 </div>
 
