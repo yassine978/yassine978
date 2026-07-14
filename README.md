@@ -161,7 +161,7 @@ Multi-source system combining job scraping, semantic matching, and RAG-based CV/
 </details>
 
 <details>
-<summary><b>🎬 Movie Recommendation System on GCP</b> · Team project (with Mehdi)</summary>
+<summary><b>🎬 Movie Recommendation System on GCP</b> · Team project </summary>
 
 <br>
 
